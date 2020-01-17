@@ -1,6 +1,6 @@
 <?php
 /* Conexión BD */
-define('DB_SERVER', '10.128.12.43');
+define('DB_SERVER', '10.128.12.68');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', 'rootroot');
 define('DB_DATABASE', 'comprasweb');
